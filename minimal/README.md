@@ -2,10 +2,6 @@
 
 ![logo](https://www.reindex.io/blog/building-a-graphql-server-with-node-js-and-sql/GraphQL_NodeJS.png "GraphQL Node.js")
 
-
-
-__build your GraphQL Server within a second__
-
 Featuring
 -----------------------------------------
 1. Minimal: Hello World boilerplate app
