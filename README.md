@@ -8,11 +8,11 @@ __build your GraphQL Server within a second__
 Featuring
 -----------------------------------------
 1. Minimal: Hello World boilerplate app
+2. Basic: Starter kit untuk real world app
 
 ### _coming soon in GraphQL-Node.js_
 
-1. Basic: Starter kit untuk real world app
-2. Advance: Starter kit termasuk Auth dan GraphQL Subscription
+1. Advance: Starter kit termasuk Auth dan GraphQL Subscription
 
 ### Getting Started
 
