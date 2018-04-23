@@ -1,0 +1,17 @@
+{
+  "name": "graphql-node-server",
+  "version": "1.0.0",
+  "description": "GraphQL Node.js Server Boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "author": "Muhamad Irham Prasetyo",
+  "license": "MIT",
+  "dependencies": {
+    "graphql-yoga": "^1.9.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.3"
+  }
+}
