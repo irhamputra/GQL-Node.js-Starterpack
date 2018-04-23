@@ -1,6 +1,6 @@
 # Boilerplate Basic GraphQL Server
 
-[logo]: https://www.reindex.io/blog/building-a-graphql-server-with-node-js-and-sql/GraphQL_NodeJS.png "GraphQL Node.js"
+![logo](https://www.reindex.io/blog/building-a-graphql-server-with-node-js-and-sql/GraphQL_NodeJS.png "GraphQL Node.js")
 __build your GraphQL Server within a second__
 
 Featuring
@@ -15,6 +15,9 @@ Featuring
 ### Getting Started
 
 1. Clone the repo
+```
+git clone https://github.com/irhamputra/graphql-node.git
+```
 
 2. Install Node Module with Yarn / NPM
 
@@ -41,10 +44,10 @@ Screen Shot
 -------------------------
 type a query
 
-[SS]: https://user-images.githubusercontent.com/22166728/39155938-6a878d82-4754-11e8-921b-47f3f0bbdfc6.png "SS 1"
+![SS](https://user-images.githubusercontent.com/22166728/39155938-6a878d82-4754-11e8-921b-47f3f0bbdfc6.png "SS 1")
 
 add a value into a query
 
-[SS]: https://user-images.githubusercontent.com/22166728/39156032-cf75c984-4754-11e8-9c0f-3f80681ee95f.png "SS 2"
+![SS](https://user-images.githubusercontent.com/22166728/39156032-cf75c984-4754-11e8-9c0f-3f80681ee95f.png "SS 2") 
 
 5. Edit your schema and resolvers to play around with GraphQL
